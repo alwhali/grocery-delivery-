@@ -473,8 +473,8 @@ The repository includes app screenshots in `assets/screen_shots/`:
 - **SplashScreen.png**: Splash screen with logo
 - **HomeScreen.png**: Home screen with banners, categories, and products
 
-![Splash Screen](assets/screen_shots/SplashScreen.png , width=300 , height = 600)
-![Home Screen](assets/screen_shots/HomeScreen.png, width=300 , height = 600)
+![Splash Screen](assets/screen_shots/SplashScreen.png ,, size=100)
+![Home Screen](assets/screen_shots/HomeScreen.png, , size=100)
 
 ---
 
