@@ -471,10 +471,10 @@ dart format lib/ test/
 The repository includes app screenshots in `assets/screen_shots/`:
 
 - **SplashScreen.png**: Splash screen with logo
+- <img src="assets/screen_shots/SplashScreen.png" width ="300" height ="500">
 - **HomeScreen.png**: Home screen with banners, categories, and products
+- <img src="assets/screen_shots/HomeScreen.png" width ="300" height ="500">
 
-![Splash Screen](assets/screen_shots/SplashScreen.png , size=100)
-![Home Screen](assets/screen_shots/HomeScreen.png , size=100)
 
 ---
 
